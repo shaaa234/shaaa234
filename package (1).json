@@ -1,17 +1,17 @@
 {
-	"name": "levanter",
-	"version": "5.0.0",
+	"name": "shaaa234",
+	"version": "1.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "pm2 start . --attach --namespace levanter --name levanter",
-		"stop": "pm2 stop levanter"
+		"start": "pm2 start . --attach --namespace shaaa234 --name shaaa234",
+		"stop": "pm2 stop shaaa234"
 	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"axios": "^1.3.3",
-		"baileys": "git+https://github.com/WhiskeySockets/Baileys.git#master",
+		"baileys": "git+https://github.com/shaaa234/Baileys.git#master",
 		"browser-id3-writer": "^4.4.0",
 		"cheerio": "^1.0.0-rc.10",
 		"cookie": "^0.5.0",

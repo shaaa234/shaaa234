@@ -13,6 +13,10 @@
       "required": true,
       "value": ""
     },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account api key, https://dashboard.heroku.com/account",
+      "required": true
+    },
     "PREFIX": {
       "description": "put any one symbol here",
       "required": false,

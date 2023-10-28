@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bot(SHA)",
+  "description": " Whatsapp bot.",
+  "keywords": [
+    "whatsapp bot"
+  ],
+  "repository": "https://github.com/shaaa234/SHA",
+  "stack": "container",
+  "env": {
+    },
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "put any one symbol here",
+      "required": false,
+      "value": ""
+    },

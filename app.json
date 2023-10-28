@@ -17,4 +17,6 @@
       "description": "put any one symbol here",
       "required": false,
       "value": ""
-    },
+    }
+  ]
+}

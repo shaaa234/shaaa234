@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @shaaa234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+😇. Now Deploy
+    <br>
+<p align="center"><a href="https://www.guruapi.tech"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<!---
-shaaa234/shaaa234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
